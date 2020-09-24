@@ -1,4 +1,4 @@
-VERSION=0.0.4
-DATE=2020.09.22
-PATCHNOTES=Added key config
+VERSION=0.0.5
+DATE=2020.09.24
+PATCHNOTES=Added auto check update
 FILES=EFT-Watch.exe
