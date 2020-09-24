@@ -1,4 +1,4 @@
-VERSION=0.0.5
+VERSION=0.0.6
 DATE=2020.09.24
-PATCHNOTES=Added auto check update
+PATCHNOTES=Added startup option\nFixed some bugs
 FILES=EFT-Watch.exe
