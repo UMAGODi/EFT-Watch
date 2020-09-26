@@ -1,4 +1,4 @@
-VERSION=0.0.6
-DATE=2020.09.24
-PATCHNOTES=Added startup option\nFixed some bugs
+VERSION=0.0.7
+DATE=2020.09.26
+PATCHNOTES=Added task modification
 FILES=EFT-Watch.exe
