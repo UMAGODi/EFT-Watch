@@ -1,4 +1,4 @@
-VERSION=0.0.7
-DATE=2020.09.26
-PATCHNOTES=Added task modification
+VERSION=0.0.8
+DATE=2020.10.09
+PATCHNOTES=Added many features
 FILES=EFT-Watch.exe
