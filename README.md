@@ -38,7 +38,7 @@
 
 # ダウンロード
 
-##### 右の**[Releases](https://github.com/UMAGODi/EFT-Watch/releases)**から**EFT-Watch.zip**をクリックすればダウンロードできます。
+##### 右の[Releases](https://github.com/UMAGODi/EFT-Watch/releases)からEFT-Watch.zipをクリックすればダウンロードできます。
 
 ###### Code→Download ZIP は余計なものがついてくるので、しないでください。
 
