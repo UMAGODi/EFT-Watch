@@ -6,6 +6,10 @@
 
 ![image](https://raw.githubusercontent.com/UMAGODi/EFT-Watch/master/image/image.png)
 
+
+
+
+
 # 概要
 
 ##### 某ロシア市からの脱出ゲームですべてのエスケーパーがお世話になっている、あの時計をゲームの外側に持ち帰ったアプリです。
@@ -45,6 +49,21 @@
 ##### 右の[Releases](https://github.com/UMAGODi/EFT-Watch/releases)からEFT-Watch.zipをクリックすればダウンロードできます。
 
 ###### Code→Download ZIP は余計なものがついてくるので、しないでください。
+
+
+
+### 「Windows によって PC が保護されました」と出た場合の対処
+
+<details><summary>折りたたんであります</summary>
+    <br>
+    <img src="https://raw.githubusercontent.com/UMAGODi/EFT-Watch/master/image/SS_1.png" alt="SS_1.png">
+    <h4>①：左の真ん中あたりにある「詳細情報」をクリックします</h4><br>
+    <img src="https://raw.githubusercontent.com/UMAGODi/EFT-Watch/master/image/SS_2.png" alt="SS_2.png">
+    <h4>②：下に出てきた「実行」をクリックします。</h4><br>
+    <hr>
+</details>
+
+
 
 
 
